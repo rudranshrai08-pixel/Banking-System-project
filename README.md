@@ -1,2 +1,1 @@
-# Banking-System-project
-Java Banking System is a console-based application developed using Core Java and OOP concepts that simulates basic banking operations. The system supports account creation with PIN-based authentication, secure login, deposit and withdrawal transactions, balance inquiry, and transaction history. It also implements file handling and serialization to ensure data persistence across program runs, along with input validation to handle invalid user inputs. This project was built for learning and academic purposes to demonstrate real-world use of Java fundamentals.
+
